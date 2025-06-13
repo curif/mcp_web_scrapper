@@ -114,7 +114,7 @@ The script accepts the following command-line arguments:
         ```
 ### Examples
 ```bash
-python3 ingest.py --bucket-name curif-agent-docs-adk --local-folder ./output/ --corpus-name "Agent ADK Documentation" ^C
+python3 ingest.py --bucket-name curif-agent-docs-adk --local-folder ./output/ --corpus-name "Agent ADK Documentation"
 ```
 ## Script Workflow
 
